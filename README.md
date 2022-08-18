@@ -17,4 +17,5 @@ https://notify-bot.line.me/en/
 
 6. Go to selected LINE group and invite LINE Notify into that group
 
-7. Copy access token put in code and run
+7. Copy access token put in code and run in terminal with this command
+   $python linenoti.py   
