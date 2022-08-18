@@ -15,4 +15,6 @@ https://notify-bot.line.me/en/
 5. Implement code for notification
    - document (Topic: Notification) https://notify-bot.line.me/doc/en/
 
-6. Copy access token put in code and run
+6. Go to selected LINE group and invite LINE Notify into that group
+
+7. Copy access token put in code and run
