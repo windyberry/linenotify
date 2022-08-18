@@ -12,4 +12,4 @@ headers = {
 }
 r = requests.post(url, headers=headers, data=message)
 
-print(r.status_code+" "+r.text[:300])
+print(str(r.status_code)+" "+r.text[:300])
